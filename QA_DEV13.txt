@@ -1,0 +1,10 @@
+DEVELOPMENT 13 — PAST EXAM / SCOPE INTEGRITY
+- 2025–26 archive evidence added for all four active courses.
+- Archive evidence is explicitly AUZEF-ARCHIVE / third-party / non-official.
+- No third-party question is promoted to CONFIRMED-AUZEF.
+- Business Management: exam metadata verified, question text withheld because not independently accessible/verified.
+- 2026–27 course-specific official midterm unit scope re-searched on 2026-09-25: not found; remains UNKNOWN.
+- Service worker cache: dev13.
+- node --check: data.js/app.js/sw.js PASS.
+- ZIP integrity PASS.
+STATUS: IN PROGRESS — NOT READY.

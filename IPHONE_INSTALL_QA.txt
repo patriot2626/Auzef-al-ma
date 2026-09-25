@@ -1,0 +1,21 @@
+AUZEF Vize — iPhone 15 Pro Max Final Device QA
+Status: PENDING until performed on the physical phone.
+
+Deployment requirement
+- Serve this folder from a private HTTPS origin. Do not open index.html directly from Files/ZIP.
+- Open the HTTPS address in Safari.
+- Share > Add to Home Screen > Add.
+
+Device acceptance test
+[ ] App opens from Home Screen without Safari browser chrome.
+[ ] Correct AUZEF Vize icon appears.
+[ ] Open each of the four courses and at least one teaching card.
+[ ] Answer 3 questions, including 1 wrong answer; confirm it appears in Yanlışlarım.
+[ ] Fully close the app and reopen; progress and Yanlışlarım are preserved.
+[ ] While online, open the app once; then enable Airplane Mode and reopen from Home Screen; core app loads offline.
+[ ] Start a 20-question / 30-minute simulation, background the app for >60 seconds, return; elapsed real time is reflected.
+[ ] Complete/exit simulation; navigation remains responsive.
+[ ] Re-enable network and reopen; no state reset.
+
+READY rule
+Only after all boxes pass may iphonePwaEndToEndQA be marked DONE and the app be called READY.

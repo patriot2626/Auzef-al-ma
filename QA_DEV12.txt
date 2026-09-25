@@ -1,0 +1,8 @@
+Development 12 QA
+- Adaptive wrong-review mode added.
+- Correct answer during wrong-review removes that question from active wrong pool.
+- masteredWrong counter retained in localStorage state.
+- Wrong page shows course/unit context and active/mastered counts.
+- Existing source-safe explanation fallback retained; no unsupported distractor rationale generated.
+- JS syntax: PASS (app.js/data.js/sw.js)
+- Status: IN PROGRESS / NOT READY.

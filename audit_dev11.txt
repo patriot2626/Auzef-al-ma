@@ -1,0 +1,53 @@
+total 559 issues 0
+[]
+dups
+[
+  [
+    {
+      "cid": "sos",
+      "ui": 4,
+      "i": 5,
+      "q": "Aşağıdakilerden hangisi Marx’ın düşüncelerini yansıtmamaktadır?",
+      "answer": "Toplumsal yapıyı belirleyen asli unsur ekonomik boyut değildir"
+    },
+    {
+      "cid": "sos",
+      "ui": 4,
+      "i": 6,
+      "q": "Aşağıdakilerden hangisi Marx’ın düşüncelerini yansıtmamaktadır?",
+      "answer": "Bürokratik yapılarda, görev ve sorumluluklar gibi, yetkiler de hiyerarşik olarak sıralanır"
+    }
+  ],
+  [
+    {
+      "cid": "ikt",
+      "ui": 2,
+      "i": 5,
+      "q": "Aşağıdaki durumlardan hangisinde talep eğrisi sola kaymaz?",
+      "answer": "İkame malın fiyatının artması"
+    },
+    {
+      "cid": "ikt",
+      "ui": 2,
+      "i": 6,
+      "q": "Aşağıdaki durumlardan hangisinde talep eğrisi sola kaymaz?",
+      "answer": "İkame malın fiyatının artması"
+    }
+  ],
+  [
+    {
+      "cid": "islet",
+      "ui": 2,
+      "i": 8,
+      "q": "Aşağıdakilerden hangisi yönetimin fonksiyonlarından biri değildir?",
+      "answer": "Pazarlama"
+    },
+    {
+      "cid": "islet",
+      "ui": 7,
+      "i": 1,
+      "q": "Aşağıdakilerden hangisi yönetimin fonksiyonlarından biri değildir?",
+      "answer": "Değerlendirme"
+    }
+  ]
+]

@@ -1,0 +1,8 @@
+Development 16 QA
+- Added local per-unit answer statistics (answers/correct/wrong/lastAt).
+- Repeated misses update one active wrong record and increment misses.
+- Wrong-review prioritizes highest-miss questions.
+- Added weak-topic radar in Progress and Smart Review mode for units with >=2 answers and <80% accuracy.
+- Smart Review falls back to active wrong review when insufficient unit statistics exist.
+- No official 2026–27 scope assumption introduced.
+- Status remains IN PROGRESS / NOT READY.

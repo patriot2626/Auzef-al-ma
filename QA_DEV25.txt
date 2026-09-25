@@ -1,0 +1,7 @@
+Development 25 pre-deployment QA
+- Target: private HTTPS static deployment
+- Added vercel.json with service-worker and security headers
+- Added DEPLOY_VERCEL.txt
+- Service worker cache: auzef-vize-dev25
+- Physical iPhone acceptance: PENDING
+- Strict access-control/privacy: PENDING external hosting configuration

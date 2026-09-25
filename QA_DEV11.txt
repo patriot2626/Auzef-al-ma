@@ -1,0 +1,10 @@
+Development 11 QA
+- Source-bound questions: 559
+- Structural mismatches (5 options / answerKey / answerText): 0
+- Repeated stem groups checked: 3
+  * Sociology Unit 4: same stem, two distinct source questions; retained.
+  * Economics Unit 2: literal duplicate appears twice in source; retained in source bank, de-duplicated in simulations.
+  * Business Units 2 and 7: same stem, different option sets and answers; retained.
+- Explanation lookup is now course+unit+stem aware before generic fallback.
+- Course simulation de-duplicates literal identical questions.
+Status: IN PROGRESS — NOT READY.

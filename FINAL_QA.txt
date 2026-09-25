@@ -1,0 +1,25 @@
+AUZEF Vize Uygulaması — Development 23 Final QA
+
+CONFIRMED (static/runtime):
+- Runtime question bank: 559; structural errors: 0
+- Source-grounded explanation coverage: 559/559
+- Four active courses present
+- PWA manifest: standalone, start_url=./
+- iOS viewport-fit/safe-area and Apple web-app metadata present
+- Dedicated PNG Apple touch icon: 180x180
+- PWA PNG icons: 192x192 and 512x512
+- Service worker cache: auzef-vize-dev23; PNG icons included in app shell
+- Old cache cleanup and offline cache fallback present
+- State persistence implemented with localStorage
+- Simulation timer uses Date.now() elapsed-time calculation, so foreground timer ticks are not the source of truth
+- In-app iPhone installation/final-QA instructions added
+- app.js/data.js/sw.js syntax checks passed
+
+UNVERIFIED — physical iPhone 15 Pro Max / Safari required:
+- Add to Home Screen and icon appearance on user's device/iOS
+- Offline relaunch after force-close
+- localStorage persistence after actual iOS process termination
+- Real background/suspension behavior of 30-minute simulation
+
+Status: IN PROGRESS — NOT READY until physical-device checks pass.
+2026–27 course-specific official midterm unit scope remains UNKNOWN and is not guessed.

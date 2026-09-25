@@ -1,0 +1,8 @@
+DEVELOPMENT 14 — ARCHIVE-TO-BOOK EXAM FOCUS MAP
+- Added a conservative past-exam-to-book unit map for BAT, Sociology and Economics.
+- Map is explicitly labelled study priority / non-official; it does not alter 2026–27 scope UNKNOWN.
+- Business Management remains unmapped because past-question text was not independently verified.
+- Added Archive Focus Test: draws only from the mapped AUZEF book units; uses book questions, not invented/archive-copied questions.
+- High-confidence mapped units are weighted before exact-question de-duplication.
+- Coverage status normalized to 50/50 deep teaching and 559 book questions.
+STATUS: IN PROGRESS — NOT READY.

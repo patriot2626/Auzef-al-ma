@@ -1,0 +1,36 @@
+{
+  "total": 559,
+  "exact": 315,
+  "fallback": 244,
+  "pct": 56.4,
+  "structural": 0,
+  "by": {
+    "bat": {
+      "q": 168,
+      "exact": 99,
+      "fallback": 69
+    },
+    "sos": {
+      "q": 155,
+      "exact": 89,
+      "fallback": 66
+    },
+    "ikt": {
+      "q": 140,
+      "exact": 80,
+      "fallback": 60
+    },
+    "islet": {
+      "q": 96,
+      "exact": 47,
+      "fallback": 49
+    }
+  },
+  "quality": {
+    "questionSpecificOrUnitGrounded": 315,
+    "newInDev16": 300,
+    "preExisting": 15,
+    "safeFallbackRemaining": 244,
+    "totalBookQuestions": 559
+  }
+}

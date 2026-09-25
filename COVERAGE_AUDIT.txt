@@ -1,0 +1,23 @@
+AUZEF Vize App — Development 15
+STATUS: IN PROGRESS — NOT READY
+
+CONFIRMED IMPLEMENTED
+- 4 active courses
+- 50/50 units deep-teaching coverage
+- 559/559 book questions structural QA clean
+- adaptive wrong-answer review
+- 20-question / 30-minute simulation
+- archive-to-book focus layer with strict non-official labeling
+- source-grounded explanation engine; high-yield explanation tranche expanded in Dev15
+
+READY ESTIMATE: 82%
+This is an engineering/content completion estimate, not an exam-success prediction.
+
+REMAINING READY GATES
+1. Deep answer explanations: PARTIAL
+2. Verified İstanbul Üniversitesi AUZEF past-vize question bank: PARTIAL
+3. Official 2026–27 course-specific midterm scope: BLOCKED / UNKNOWN until published/found
+4. End-to-end iPhone/PWA QA, offline/install/state tests: PENDING
+
+IMPORTANT
+Official 2026–27 midterm unit scope is not guessed. UNKNOWN does not block development, but the app cannot claim final scope alignment until authoritative information exists.

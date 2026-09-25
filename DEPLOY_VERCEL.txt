@@ -1,0 +1,22 @@
+AUZEF Vize — Private HTTPS Deployment (Vercel)
+Development 25
+
+Purpose
+- Deploy the static PWA to a real HTTPS origin so it can be installed from Safari on the user's iPhone 15 Pro Max.
+- This package contains no server database and no analytics. Study progress remains in the browser/PWA localStorage.
+
+Deployment
+1. Deploy this folder as a static Vercel project.
+2. No build command is required.
+3. Project root/output is this folder.
+4. After deployment, open the HTTPS URL in iPhone Safari once while online.
+5. Share > Add to Home Screen.
+
+Privacy gate
+- A unique/unguessable URL is NOT authentication.
+- If strict "only me" access is required, enable Vercel Deployment Protection / authentication (availability depends on the user's Vercel plan/settings) before treating privacy as verified.
+- Do not put credentials inside app.js/data.js/index.html; all client files are readable by anyone who can reach the origin.
+
+Acceptance
+- Run IPHONE_INSTALL_QA.txt on the physical iPhone.
+- Only after all device checks pass can iphonePwaEndToEndQA become DONE.

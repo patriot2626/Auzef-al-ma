@@ -1,0 +1,11 @@
+Development 19 QA
+- Full runtime data.js executed: PASS
+- Book questions: 559
+- Structural question issues: 0
+- Source-grounded explanation layer expanded with conservative concept-family rules based on canonical AUZEF teaching cards.
+- Unsupported distractor-specific rationales remain blocked.
+- JS syntax: PASS (data.js, app.js, sw.js)
+- Service worker cache: auzef-vize-dev19
+- Physical iPhone 15 Pro Max Safari install/offline validation: PENDING
+- Official 2026–27 course-specific midterm scope: UNKNOWN
+- READY status: IN PROGRESS
